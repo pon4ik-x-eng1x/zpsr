@@ -7,7 +7,7 @@ This project was created by a developer from Ukraine as an experiment in alterna
 
 ## 💡 What is ZPSR?
 
-ZPSR stands for _"Хочешь писать на этом код? Лучше не надо.."_ (Do you want to write code on this? Better not…).  
+ZPSR stands for _"ЗАЕБАЛ, ПИШИ СУКА РУССКИМИ"_ (Sir, please, write in the russian.).  
 It is designed to resemble Python in structure and simplicity, but replaces standard Latin keywords and operators with their equivalents typed using a Russian keyboard layout.
 
 This language was created as:
